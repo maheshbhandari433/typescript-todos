@@ -1,8 +1,3 @@
-/* export class Todo {
-    constructor (public id: string, public text: string) {}
-}
- */
-
 import { Schema, model } from 'mongoose';
 
 // Define Todo interface
